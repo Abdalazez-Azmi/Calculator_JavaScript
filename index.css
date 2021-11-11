@@ -1,0 +1,51 @@
+h1{
+    background-color: crimson;
+    padding: 10px;
+    margin: 20px;
+    color: #fff;
+    border-radius: 10px;
+    
+}
+
+input{
+    text-align: center;
+    font-size: 25px;
+    width: 80px;
+    height: 40px;
+    border-radius: 7px;
+}
+label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    margin: 15px;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#clk{
+    padding: 10px 40px;
+    border-radius: 7px;
+    font-size: 25px;
+    background-color: crimson;
+    color: white;
+
+}
+
+#clk :hover{
+    background-color: transparent;
+}
+
+select{
+    padding: 12px;
+    border-radius: 15px;
+    font-size: 35px;
+    font-weight: 700;
+    box-sizing: 2px;
+    margin: 10px;
+    text-align: center;
+}
